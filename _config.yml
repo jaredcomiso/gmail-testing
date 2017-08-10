@@ -1,0 +1,2 @@
+baseurl: /gmail-testing
+exclude: ['README.md']
